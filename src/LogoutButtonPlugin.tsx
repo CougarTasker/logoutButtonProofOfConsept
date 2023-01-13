@@ -1,8 +1,6 @@
 import React from "react";
 import * as Flex from "@twilio/flex-ui";
 import { FlexPlugin } from "@twilio/flex-plugin";
-
-import CustomTaskList from "./components/CustomTaskList/CustomTaskList";
 import { ParasiteButton } from "./components/parasiteButton";
 
 const PLUGIN_NAME = "LogoutButtonPlugin";
